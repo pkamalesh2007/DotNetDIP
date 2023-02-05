@@ -1,0 +1,3 @@
+"# dotnetcoredependencyinjection" 
+"# DotnetcoreDependencyInjection" 
+"# DotNetDIP" 
